@@ -1,0 +1,10 @@
+#cr-stage 	{ 
+				border-width:1px; 
+				border-style:solid; 
+				border-color:gray;
+				margin-right:auto; 
+				margin-left:auto;
+			} /* IE9 Canvas Fix */
+h1 { text-align:center; color:white; }
+h2 { text-align:center; color:white; }
+body { background-color:black; }
